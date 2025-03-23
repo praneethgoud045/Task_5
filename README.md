@@ -38,7 +38,9 @@ This repository contains Task 5 of the ML project(Consumer_complaints). It inclu
 ## Screenshots:
 ![algorithms_accuracys](https://github.com/user-attachments/assets/c50b0ce7-9342-4175-a2c7-a19d104869eb)
 ![accuracy_randomforet](https://github.com/user-attachments/assets/876bf0d0-158b-4d2f-b377-6d362a3dbfa8)
+
 ![wheel_graph](https://github.com/user-attachments/assets/204fae81-cf1f-47f4-931a-c873b5468c10)
+
 ![category_graph](https://github.com/user-attachments/assets/47f32a7c-80cf-4e44-91af-297163011a3a)
 ![confusion_matrix](https://github.com/user-attachments/assets/0c40beaf-a1bb-4f57-bbb7-7876ed80ba7e)
 
@@ -49,6 +51,11 @@ This repository contains Task 5 of the ML project(Consumer_complaints). It inclu
 ### Sample Dataset Preview
 
 ![image](https://github.com/user-attachments/assets/4bb10be3-0d71-4b9c-850b-45a75b35c91e)
+
+
+cleaned_dataset:
+![cleaned_dataset_properties](https://github.com/user-attachments/assets/cdc62e83-de91-4aa6-bb9e-baada8827eb6)
+
 
 
 ### Model Training Output:
