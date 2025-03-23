@@ -45,6 +45,10 @@ This repository contains Task 5 of the ML project(Consumer_complaints). It inclu
 ### Model Training Output:
 
 ![image](https://github.com/user-attachments/assets/81244fbf-3237-4afc-8b20-c4665950fe92)
+
+
+
+
 Trained multiple models, including:
 1)Naive Bayes
 2)Logistic Regression (with class_weight="balanced")
