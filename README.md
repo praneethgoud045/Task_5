@@ -53,7 +53,9 @@ This repository contains Task 5 of the ML project(Consumer_complaints). It inclu
 ![image](https://github.com/user-attachments/assets/4bb10be3-0d71-4b9c-850b-45a75b35c91e)
 
 
-cleaned_dataset:
+Cleaned_dataset:
+
+
 ![cleaned_dataset_properties](https://github.com/user-attachments/assets/cdc62e83-de91-4aa6-bb9e-baada8827eb6)
 
 
