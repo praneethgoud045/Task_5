@@ -42,6 +42,7 @@ This repository contains Task 5 of the ML project. It includes data processing, 
 
 
 ### Model Training Output
+![image](https://github.com/user-attachments/assets/81244fbf-3237-4afc-8b20-c4665950fe92)
 
 
 
