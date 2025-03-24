@@ -36,8 +36,6 @@ This repository contains Task 5 of the ML project(Consumer_complaints). It inclu
 ```
 
 ## Screenshots:
-![algorithms_accuracys](https://github.com/user-attachments/assets/c50b0ce7-9342-4175-a2c7-a19d104869eb)
-![accuracy_randomforet](https://github.com/user-attachments/assets/876bf0d0-158b-4d2f-b377-6d362a3dbfa8)
 
 ![wheel_graph](https://github.com/user-attachments/assets/204fae81-cf1f-47f4-931a-c873b5468c10)
 
@@ -65,6 +63,8 @@ Cleaned_dataset:
 
 ![category_properties](https://github.com/user-attachments/assets/dabc03a8-a387-4301-8477-96ff9d0c86e1)
 
+![algorithms_accuracys](https://github.com/user-attachments/assets/c50b0ce7-9342-4175-a2c7-a19d104869eb)
+![accuracy_randomforet](https://github.com/user-attachments/assets/876bf0d0-158b-4d2f-b377-6d362a3dbfa8)
 
 
 
