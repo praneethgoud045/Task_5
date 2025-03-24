@@ -62,7 +62,9 @@ Cleaned_dataset:
 
 ### Model Training Output:
 
-![image](https://github.com/user-attachments/assets/81244fbf-3237-4afc-8b20-c4665950fe92)
+
+![category_properties](https://github.com/user-attachments/assets/dabc03a8-a387-4301-8477-96ff9d0c86e1)
+
 
 
 
